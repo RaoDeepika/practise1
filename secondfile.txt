@@ -1,0 +1,13 @@
+This is the second file we are creating to practice moving,
+renaming the files, both these functions use the same command.
+
+mv oldfilename newfilename
+
+For copying a file from one location to another,
+cp oldfilename newfilename.
+or
+cp fileToBeCopied newLocation_of_file
+
+enough!
+
+

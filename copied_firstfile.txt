@@ -1,0 +1,7 @@
+This is the new file. 
+We are trying out the creating a file and adding content.
+We will also practise working with- how to create, push and pull files.
+So lets dive into it now.
+Learning is fun.
+
+
